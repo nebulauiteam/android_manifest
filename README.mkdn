@@ -1,9 +1,10 @@
 NebulaUI (Stable)
 ===========
-Welcome to NOSP (Nebula Open Source Project)
+
 Getting started
 ---------------
 
+Welcome to NOSP (Nebula Open Source Project)
 To get started with Android/NebulaUI, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
 To initialize your local repository using the NebulaUI trees, use a command like this:

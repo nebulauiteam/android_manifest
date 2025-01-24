@@ -1,6 +1,6 @@
-NebulaUI (Stable)
+# NebulaUI (Stable)
+![nosp_banner.png](https://github.com/nebulauiteam/android_manifest/blob/lineage-21.0/assets/nosp_banner.png)
 ===========
-
 Getting started
 ---------------
 
